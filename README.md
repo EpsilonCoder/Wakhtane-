@@ -25,7 +25,7 @@ Se réunir est un début, rester ensemble est un progrès, travailler ensemble e
 Un réseau social adapté à toutes les cultures qui permettrait l’inclusion des populations analphabètes ? C’est le défi relevé par Wakhtane, la première plateforme de réseau social à instruction vocale, adaptée à la culture orale de l’Afrique.cette innovation prometteuse est à suivre et est open source et ouvert a tout le monde.
 
 
-# Merci de contribuer a ce projet open-source et 100% Africain ❤❤❤
+# Merci de contribuer a ce projet open-source et 100% Africain ❤
 
 
 
